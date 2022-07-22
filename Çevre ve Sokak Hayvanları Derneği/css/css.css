@@ -1,0 +1,37 @@
+.hayvan {
+
+    background-image: url("https://scontent.fsaw2-3.fna.fbcdn.net/v/t1.6435-9/50909113_1894778377287016_5357456030806573056_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_ohc=_tvA1QGz_bMAX9Ct5Km&_nc_ht=scontent.fsaw2-3.fna&oh=00_AT-4pkVQ3L1-aaBxVm882XxbIG3Dxh8dKZ-6QXfpi2Hv0A&oe=6301864A");
+    /* Kullanılacak Görsel */
+    background-color: black;
+    width: 100;
+
+}
+
+.telefon {
+
+    background-color: rgb(32, 17, 236);
+    position: sticky;
+    position: -webkit-sticky;
+    bottom: 0;
+    width: 100%;
+    margin: 0;
+}
+
+.float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+
+.my-float {
+    margin-top: 16px;
+}
